@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: denisskakalski-azure-ttt
-  AZURE_WEBAPP_NAME: denisskakalski-ttt-app
+  DOCKER_IMAGE_NAME: denis-skakalski-azure-ttt
+  AZURE_WEBAPP_NAME: denis-skakalski-ttt-app
   ###############################################
 
 jobs:
